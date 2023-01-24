@@ -1,4 +1,4 @@
-#Covid-19 Dashboard for Ardennes (08)#
+Covid-19 Dashboard for Ardennes (08)
 This dashboard displays data on Covid-19 cases in the Ardennes department (08) using a database and the following technologies:
 
 PHP for server-side logic
