@@ -1,7 +1,7 @@
 <?php
 // connection bdd
 try{
-$bdd=new PDO('mysql:host=localhost;dbname=db-boukhna2','root','');
+$bdd=new PDO('mysql:host=localhost;dbname=db-ardennes','root','');
 }
 catch (Exception $e){
 	die('Erreur :'.$e->getMessage());
