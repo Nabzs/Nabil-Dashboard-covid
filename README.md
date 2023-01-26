@@ -5,10 +5,10 @@
 - SQL for database management
 - JavaScript, Chart.js, HTML, and CSS for creating the user interface
 ## Installation
-- Clone or download the repository
-- Import the SQL file db-ardennes.sql to your MySQL server
-- Update the database connection settings in config.php
-- Run the application on a web server (e.g. Apache)
+- Clone or download the `repository`
+- Import the `SQL file` db-ardennes.sql to your MySQL server
+- Update the database connection settings in `config.php`
+- Run the `application` on a web server (e.g. Apache)
 ---
 ## Usage
 > The dashboard shows the following information:
