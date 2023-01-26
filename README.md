@@ -18,7 +18,7 @@
 - Evolution of the cases over time
 - Map representation of the cases in the department
 ## Contribution
-> **Notes** If you would like to contribute to this project, please fork the repository and make a pull request with your changes.
+> **Note** If you would like to contribute to this project, please fork the repository and make a pull request with your changes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
